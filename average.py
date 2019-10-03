@@ -14,5 +14,5 @@ print(num_3)
 print(num_4)
 print(num_5)
 average = (num_1 + num_2 + num_3 + num_4 + num_5)/5
-print("The average of those numbers is: ")
+print("The average of those numbers is:")
 print(average)
