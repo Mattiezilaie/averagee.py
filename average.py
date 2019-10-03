@@ -2,7 +2,7 @@
 #Date: 10/2/19
 #Description: user enters five numbers and then sends back the total number
 
-input("Please enter five numbers.")
+int(input("Please enter five numbers."))
 num_1 = float(input())
 num_2 = float(input())
 num_3 = float(input())
